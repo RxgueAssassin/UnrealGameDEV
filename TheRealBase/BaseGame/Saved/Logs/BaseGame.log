@@ -921,3 +921,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.18-22.19.55:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
 [2021.04.18-22.19.56:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
 [2021.04.18-22.19.56:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.04.18-22.20.04:201][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.04.18-22.20.19:430][  0]LogSavePackage: Moving '../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Saved/Floor_400x400BDD8FA034339A969E7B44DAFD9B15860.tmp' to '../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.04.18-22.20.19:553][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.04.18-22.20.19:555][  0]Cmd: MAP LOAD FILE="../../../../../Users/moffa/Desktop/GameDEV/UNREAL/UnrealGameDEV/TheRealBase/BaseGame/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.18-22.20.19:555][  0]LightingResults: New page: Lighting Build
+[2021.04.18-22.20.19:556][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.18-22.20.19:556][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.18-22.20.19:557][  0]MapCheck: New page: Map Check
+[2021.04.18-22.20.19:557][  0]LightingResults: New page: Lighting Build
+[2021.04.18-22.20.22:151][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2021.04.18-22.20.29:038][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.04.18-22.20.29:557][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.04.18-22.20.29:559][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.18-22.20.30:246][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.18-22.20.30:260][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.04.18-22.20.30:287][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.18-22.20.30:287][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2021.04.18-22.20.30:287][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 10.732
+[2021.04.18-22.20.30:309][  0]LogUnrealEdMisc: Total Editor Startup Time, took 128.649
+[2021.04.18-22.20.31:568][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.20.31:622][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.20.31:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.20.31:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.18-22.20.32:197][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0158 seconds. Added 3601 classes and 859 folders.
+[2021.04.18-22.20.32:606][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.18-22.20.32:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.18-22.20.32:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.18-22.20.32:609][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.18-22.20.32:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.18-22.20.32:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.18-22.20.32:610][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.18-22.20.32:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.18-22.20.32:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.04.18-22.20.32:611][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.18-22.20.32:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.18-22.20.32:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.04.18-22.20.32:612][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.18-22.20.32:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.18-22.20.32:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.18-22.20.32:613][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.18-22.20.32:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.18-22.20.32:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.18-22.20.32:614][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.18-22.20.32:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.18-22.20.32:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.04.18-22.20.32:615][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.18-22.20.32:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.18-22.20.32:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.18-22.20.32:616][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.18-22.20.32:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.18-22.20.32:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.04.18-22.20.32:617][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.18-22.20.32:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.18-22.20.32:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.18-22.20.32:618][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.18-22.20.32:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.18-22.20.32:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.04.18-22.20.32:619][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.18-22.20.32:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.18-22.20.32:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.04.18-22.20.32:620][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.18-22.20.32:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.18-22.20.32:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.04.18-22.20.32:620][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.18-22.20.32:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.18-22.20.32:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.04.18-22.20.32:621][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.18-22.20.32:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.18-22.20.32:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.04.18-22.20.32:622][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.18-22.20.32:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.18-22.20.32:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.04.18-22.20.32:624][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.18-22.20.32:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.18-22.20.32:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.04.18-22.20.32:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.18-22.20.32:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.18-22.20.32:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.04.18-22.20.32:626][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.18-22.20.32:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.18-22.20.32:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.04.18-22.20.32:626][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.18-22.20.32:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.18-22.20.32:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.04.18-22.20.32:627][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.18-22.20.32:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.18-22.20.32:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.04.18-22.20.32:628][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.18-22.20.32:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.18-22.20.32:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.04.18-22.20.32:629][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.18-22.20.32:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.18-22.20.32:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.04.18-22.20.32:630][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.18-22.20.32:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.18-22.20.32:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.04.18-22.20.32:631][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.18-22.20.32:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.18-22.20.32:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.18-22.20.32:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.04.18-22.20.32:687][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.18-22.20.33:051][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.18-22.20.33:815][  0]LogSlate: The tab "ConcertBrowser" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.04.18-22.20.33:843][  0]LogSlate: Took 0.000398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.18-22.20.33:847][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.18-22.20.34:032][  0]LogSlate: Took 0.032017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.18-22.20.34:795][  0]LogRenderer: Reallocating scene render targets to support 888x444 Format 10 NumSamples 1 (Frame:1).
+[2021.04.18-22.20.35:473][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.18-22.20.35:654][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.18-22.20.35:654][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.18-22.20.35:654][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.18-22.20.35:654][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.18-22.20.35:654][  0]LogLoad: (Engine Initialization) Total time: 133.99 seconds
+[2021.04.18-22.20.35:655][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.18-22.20.35:655][  0]LogInit: First time updating LLM stats...
+[2021.04.18-22.20.36:114][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.04.18-22.20.36:114][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.04.18-22.20.36:747][  0]LogAssetRegistry: Asset discovery search completed in 127.7981 seconds
+[2021.04.18-22.20.36:748][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.04.18-22.20.36:748][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.18-22.22.22:149][992]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2021.04.18-22.22.26:274][141]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.18-22.22.26:404][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.18-22.22.26:532][141]PIE: New page: PIE session: ThirdPersonExampleMap (Apr. 18, 2021, 2:22:26 p.m.)
+[2021.04.18-22.22.26:618][141]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.18-22.22.26:632][141]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.18-22.22.26:660][141]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.04.18-22.22.26:751][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080515s)
+[2021.04.18-22.22.26:768][141]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.04.18-22.22.26:788][141]LogPlayLevel: PIE: World Init took: (0.036483s)
+[2021.04.18-22.22.26:859][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.182282s)
+[2021.04.18-22.22.26:868][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.04.18-22.22.26:885][141]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.18-22.22.26:885][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.18-22.22.26:885][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.18-22.22.26:886][141]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.18-22.22.26:886][141]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.18-22.22.26:894][141]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.18-22.22.26:894][141]LogAudioMixer: Display: 1: FrontRight
+[2021.04.18-22.22.26:933][141]LogAudioMixer: Display: Using Audio Device Speakers (Conexant SmartAudio HD)
+[2021.04.18-22.22.26:934][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.18-22.22.26:934][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.18-22.22.26:934][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.18-22.22.26:934][141]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.18-22.22.26:934][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.18-22.22.26:934][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.18-22.22.26:967][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.18-22.22.26:967][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.18-22.22.26:967][141]LogInit: FAudioDevice initialized.
+[2021.04.18-22.22.26:967][141]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.04.18-22.22.27:025][141]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.18-22.22.27:284][141]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.04.18-18.22.27
+[2021.04.18-22.22.27:352][141]LogWorld: Bringing up level for play took: 0.088737
+[2021.04.18-22.22.27:380][141]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.18-22.22.27:886][141]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.04.18-22.22.27:963][141]PIE: Server logged in
+[2021.04.18-22.22.27:985][141]PIE: Play in editor total start time 1.704 seconds.
